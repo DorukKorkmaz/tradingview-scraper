@@ -2,8 +2,6 @@
 
 TradingView Scraper using Selenium Web Driver and Chrome headless for Cryptocurrency Signals
 
-### Installation
-
 ## Requirements
 * python
 * Selenium
